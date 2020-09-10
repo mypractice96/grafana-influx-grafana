@@ -1,0 +1,12 @@
+>> mvn clean install
+>> java -jar aiops-jar-with-dependencies.jar <----CL Arguments -->
+
+
+
+1) Grafana API token
+2) TimeInterval
+3) alerts.json file path
+4) InfluxDB Url
+5) Influx Database
+
+"eyJrIjoiS3I2MVZXcXJCSEVKb1JDWjh5V01YUkl3dTV3UWRLMTAiLCJuIjoiQWxlcnRpbmciLCJpZCI6MX0=" 10000 "C:/Users/Vamsi Krishna Yepuri/Desktop/alerts.json" "http://localhost:8086" "postnorddb"

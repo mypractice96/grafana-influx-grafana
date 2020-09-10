@@ -1,0 +1,5 @@
+[
+  {'dashboardName':'sweden-parcel-edi','alertApiUrl': 'http://localhost:3000/api/alerts?dashboardId=zBWOouDGk'},
+  {'dashboardName':'sweden-parcel-edi','alertApiUrl': 'http://123.com'},
+  {'dashboardName':'finland-parcel-sorting','alertApiUrl': 'http://123.com'}
+]
